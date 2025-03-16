@@ -21,7 +21,7 @@ This Python script extracts frames from a video file and saves every second fram
 
 3. Run the script to start extracting frames:
     ```bash
-    python extract_frames.py
+    python DEV-Framer.py
     ```
 
 4. Check the output folder for saved frames.
